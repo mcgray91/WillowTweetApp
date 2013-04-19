@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Willow Tree Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">\@heybluez</string>
+    <string name="title_section2">\@rockmaninoff</string>
+    <string name="title_section3">\@bsirach</string>
+    <string name="title_section4">\@willowtreeapps</string>
+    <string name="title_section5">\@jonba</string>
+    <string name="title_section6">\@richie691</string>
+    <string name="main_no_items">Loading.... Please Wait</string>
+
+</resources>
